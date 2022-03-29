@@ -1,7 +1,7 @@
 ## ywcc307
 
-#Presentation
+##Presentation
 A presentation about measuring password guessability
 
-#Syllabus
+##Syllabus
 The course syllabus for YWCC307
